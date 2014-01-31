@@ -18,5 +18,5 @@ scripts/
 AWSDevTools-RepositorySetup.sh
  
 #These are to ignore media files which we again DON'T want in our GIT Repo.
-wp-content/uploads/
-wp-content/cache/
+content/uploads/
+content/cache/
