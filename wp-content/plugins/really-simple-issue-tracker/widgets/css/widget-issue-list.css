@@ -1,0 +1,15 @@
+.widget-issue-list strong.open {
+    color:#002BB8;
+}
+.widget-issue-list strong.closed {
+    color:#222222;
+}
+.widget-issue-list strong.fixed {
+    color: #008f00;
+}
+.widget-issue-list strong.in_progress {
+    color: #b59700;
+}
+.widget-issue-list strong.stopped {
+    color:#8b0000;
+}

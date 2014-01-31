@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Really Simple Issue Tracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-03 15:05+0100\n"
+"PO-Revision-Date: 2012-11-03 19:16+0700\n"
+"Last-Translator: Beginner <beginner@ngs.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _x;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: Russian\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/"
+"really-simple-issue-tracker\n"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:22
+msgid "Bug"
+msgstr "Ошибка"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:23
+msgid "Task"
+msgstr "Задача"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:24
+msgid "Improvement"
+msgstr "Улучшение"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:25
+msgid "New feature"
+msgstr "Новая фишка"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:26
+msgid "Story"
+msgstr "История"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:20
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:32
+msgid "Issues"
+msgstr "Проблемы"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:21
+msgid "Issue"
+msgstr "Проблему"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:22
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:23
+msgid "Add New Issue"
+msgstr "Добавить новую проблему"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:24
+msgid "Edit Issue"
+msgstr "Редактировать проблему"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:25
+msgid "New Issue"
+msgstr "Новая проблема"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:26
+msgid "All Issues"
+msgstr "Все проблемы"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:27
+msgid "View Issue"
+msgstr "Просмотр проблемы"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:28
+msgid "Search Issues"
+msgstr "Поиск проблем"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:29
+msgid "No issue found"
+msgstr "Проблемы не найдены"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:30
+msgid "No issues found in Trash"
+msgstr "В Корзине проблемы не найдены"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:41
+msgid "issue"
+msgstr "проблема"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:52
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:62
+msgid "Projects"
+msgstr "Проекты"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:53
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:60
+msgid "Project"
+msgstr "Проект"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:54
+msgid "Search Projects"
+msgstr "Поиск проектов"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:55
+msgid "All Projects"
+msgstr "Все проекты"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:56
+msgid "Parent Project"
+msgstr "Родительский проект"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:57
+msgid "Parent Project:"
+msgstr "Родительский проект:"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:58
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:59
+msgid "Update Project"
+msgstr "Обновить проект"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:60
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:61
+msgid "New Project Name"
+msgstr "Новое имя проекта"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:76
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-assigned-to.php:8
+msgid "Assigned to"
+msgstr "Назначено"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:77
+msgid "Issue type"
+msgstr "Тип проблемы"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:78
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:6
+msgid "Priority"
+msgstr "Приоритет"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:79
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:70
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:167
+msgid "Status"
+msgstr "Статус"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:80
+msgid "Time"
+msgstr "Время"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:21
+msgid "Open"
+msgstr "Открыт"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:22
+msgid "In progress"
+msgstr "Решается"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:23
+msgid "Stopped"
+msgstr "Остановлен"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:24
+msgid "Fixed"
+msgstr "Решен"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:25
+msgid "Closed"
+msgstr "Закрыт"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-assigned-to.php:11
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:134
+msgid "Unassigned"
+msgstr "Не назначено"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-issue-type.php:9
+msgid "Select type"
+msgstr "Выберети тип"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:9
+msgid "Select priority"
+msgstr "Выберите приоритет"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:14
+msgid "highest"
+msgstr "высокий"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:15
+msgid "lowest"
+msgstr "низкий"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-status.php:9
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:72
+msgid "Select status"
+msgstr "Выберите статус"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:11
+msgid "Enter time in hours and minutes."
+msgstr "Укажите время в часах и минутах."
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:14
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:129
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:142
+msgid "Original estimate"
+msgstr "Первоначальная оценка"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:21
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:151
+msgid "Time spent"
+msgstr "Времени потрачено"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:27
+msgid "Time remaining"
+msgstr "Времени осталось"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:8
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:24
+msgid "Issue list"
+msgstr "Список проблем"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:8
+msgid "Displays a customizable list of registered issues."
+msgstr "Отображать настраиваемый список зарегистрированных проблем."
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:33
+msgid "Title"
+msgstr "Заголовок"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:39
+msgid "List length "
+msgstr "Длина списка"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:45
+msgid "issue(s)"
+msgstr "проблема(ы)"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:50
+msgid "Assigned to "
+msgstr "Назначено"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:52
+msgid "Select user"
+msgstr "Выберите пользователя"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:62
+msgid "Select project"
+msgstr "Выберите проект"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:178
+msgid "No issues found! Create some issues or adjust your widget settings. :-)"
+msgstr ""
+"Проблемы не найдены! Создайте проблемы или настройте параметры своего "
+"виджета. :-)"

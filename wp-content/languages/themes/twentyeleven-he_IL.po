@@ -1,0 +1,569 @@
+# Translation of Twenty Eleven in Hebrew
+# This file is distributed under the same license as the Twenty Eleven package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-06-26 10:52:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Twenty Eleven\n"
+
+msgid "http://wordpress.org/themes/twentyeleven"
+msgstr "http://wordpress.org/themes/twentyeleven"
+
+#: content-image.php:34
+msgid "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> מאת </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#: functions.php:602
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"sep\">פורסם בתאריך </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> על ידי </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+msgid "Showcase Template"
+msgstr "תבנית חלון ראווה"
+
+msgid "Sidebar Template"
+msgstr "תבנית סרגל צד"
+
+#: image.php:30
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">פורסם</span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> ב <a href=\"%3$s\" title=\"תמונה בגודל מלא\">%4$s &times; %5$s</a> ב<a href=\"%6$s\" title=\"חזרה אל %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: inc/theme-options.php:127
+msgid "Overview"
+msgstr "סקירה"
+
+#: archive.php:29
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: content-single.php:39
+msgid "This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "מאת <a href=\"%6$s\">%5$s</a>. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#: functions.php:584
+msgid "Reply <span>&darr;</span>"
+msgstr "להגיב <span>&darr;</span>"
+
+#: single.php:20
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "הבא <span class=\"meta-nav\">&larr;</span>"
+
+#: single.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&rarr;</span> הקודם"
+
+#: content-aside.php:22 content-image.php:21 content-link.php:22
+#: content-quote.php:24 content-status.php:21 content.php:30
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: content-aside.php:22 content-image.php:21 content-link.php:22
+#: content-quote.php:24 content-status.php:21 content.php:30
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: content-aside.php:22 content-image.php:21 content-link.php:22
+#: content-quote.php:24 content-status.php:21 content.php:30
+msgid "Reply"
+msgstr "להגיב"
+
+#: image.php:18
+msgid "Image navigation"
+msgstr "ניווט בתמונות"
+
+#: functions.php:566
+msgid "%1$s at %2$s"
+msgstr "%1$s בשעה %2$s"
+
+#: functions.php:560
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "מאת %1$s בתאריך %2$s<span class=\"says\">:&rlm;</span>"
+
+#: archive.php:61 author.php:78 category.php:54 index.php:41 tag.php:54
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "ביקשת להציג פוסטים מהארכיון, אבל אין פוסטים בארכיון שביקשת לראות. אם רצית פוסט מסויים, אפשר לנסות לחפש אותו."
+
+#: inc/theme-options.php:62
+msgid "Default Layout"
+msgstr "סידור העמודים"
+
+#: inc/theme-options.php:119
+msgid "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" target=\"_blank\">Documentation on Theme Options</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" target=\"_blank\">עזרה עם אפשרויות ערכת העיצוב</a>"
+
+#: inc/theme-options.php:120
+msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://support.wph.co.il/\" target=\"_blank\">פורומים</a>"
+
+#: inc/theme-options.php:118
+msgid "For more information:"
+msgstr "מידע נוסף:"
+
+#: inc/theme-options.php:116
+msgid "Remember to click \"Save Changes\" to save any changes you have made to the theme options."
+msgstr "חשוב ללחוץ על \"לשמור שינויים\" בסוף, אחרת השינויים שעשית לא ישמרו."
+
+#: header.php:131
+msgid "Skip to primary content"
+msgstr "לדלג לתוכן"
+
+#: header.php:132
+msgid "Skip to secondary content"
+msgstr "לדלג לתוכן המשני"
+
+#: inc/theme-options.php:183
+msgid "One-column, no sidebar"
+msgstr "עמודה אחת, בלי סרגל צדדי"
+
+#: inc/theme-options.php:110
+msgid "Some themes provide customization options that are grouped together on a Theme Options screen. If you change themes, options may change or disappear, as they are theme-specific. Your current theme, Twenty Eleven, provides the following Theme Options:"
+msgstr "ערכות עיצוב מסוימות מציעות אפשרויות מיוחדות להתאמה אישית בעמוד אפשרויות עיצוב. האפשרויות בעמוד זה ייחודיות לערכת העיצוב הנוכחית, ולא יפעלו עם ערכות עיצוב אחרות. התבנית הנוכחית שלך, Twenty Eleven, כוללת את האפשרויות הבאות:"
+
+#: inc/theme-options.php:112
+msgid "<strong>Color Scheme</strong>: You can choose a color palette of \"Light\" (light background with dark text) or \"Dark\" (dark background with light text) for your site."
+msgstr "<strong>ערכת צבעים</strong>: אפשר לבחור מבין שתי ערכות צבעים - \"בהיר\", עם רקע בהיר וטקסט כהה, או \"כהה\", עם רקע כהה וטקסט בהיר."
+
+#: inc/theme-options.php:113
+msgid "<strong>Link Color</strong>: You can choose the color used for text links on your site. You can enter the HTML color or hex code, or you can choose visually by clicking the \"Select a Color\" button to pick from a color wheel."
+msgstr "<strong>צבע קישורים</strong>: את צבע הקישורים אפשר לבחור מתוך גלגל צבעים על ידי לחיצה על הכפתור \"בחר צבע\", או להזין את קוד ה-Hex של הצבע בשדה שליד."
+
+#: inc/theme-options.php:114
+msgid "<strong>Default Layout</strong>: You can choose if you want your site&#8217;s default layout to have a sidebar on the left, the right, or not at all."
+msgstr "<strong>סידור העמודים</strong>: אפשר לבחור את סידור העמודות בכל עמוד באתר - התוכן מימין והסרגל הצדדי משמאלו, התוכן משמאל והסרגל הצדדי מימינו, או להסתיר לגמרי את הסרגל הצדדי ולהציג רק עמודת תוכן אחת במרכז."
+
+#: content-featured.php:29 content-featured.php:38 content-gallery.php:58
+#: content-gallery.php:68 content-image.php:47 content-image.php:56
+#: content-quote.php:44 content-quote.php:54 content-single.php:30
+#: content-single.php:33 content.php:51 content.php:63
+msgid ", "
+msgstr ", "
+
+#: content-gallery.php:62 content-image.php:51 content-quote.php:48
+#: content.php:55
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">פורסם בקטגוריה</span> %2$s"
+
+#: content-gallery.php:74 content-image.php:59 content-quote.php:60
+#: content.php:69
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">עם התגים</span> %2$s"
+
+#: footer.php:27
+msgid "Semantic Personal Publishing Platform"
+msgstr "מערכת אישית וחופשית לניהול אתרים עצמאיים"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: content-status.php:16
+msgid "Status"
+msgstr "סטטוס"
+
+#: content-quote.php:15
+msgid "Quote"
+msgstr "ציטוט"
+
+#: content-gallery.php:17
+msgid "Gallery"
+msgstr "גלריה"
+
+#: content-link.php:17
+msgid "Link"
+msgstr "קישור"
+
+#: content-image.php:16
+msgid "Image"
+msgstr "תמונה"
+
+#: content-aside.php:17
+msgid "Aside"
+msgstr "הערה"
+
+msgid "The 2011 theme for WordPress is sophisticated, lightweight, and adaptable. Make it yours with a custom menu, header image, and background -- then go further with available theme options for light or dark color scheme, custom link colors, and three layout choices. Twenty Eleven comes equipped with a Showcase page template that transforms your front page into a showcase to show off your best content, widget support galore (sidebar, three footer areas, and a Showcase page widget area), and a custom \"Ephemera\" widget to display your Aside, Link, Quote, or Status posts. Included are styles for print and for the admin editor, support for featured images (as custom header images on posts and pages and as large images on featured \"sticky\" posts), and special styles for six different post formats."
+msgstr "ערכת עיצוב מתוחכמת, קלילה, ונוחה מאוד להתאמה אישית. בכמה לחיצות אפשר לשנות את תפריטי הניווט, תמונת הכותרת, או הרקע - ואף לשנות את הצבעים ואת סידור התכנים בעמוד. תבנית העמודים \"חלון ראווה\" מאפשרת להבליט פוסטים נבחרים בעמודים ייעודי, והווידג'ט \"בר חלוף\" מציג בצד את הפוסטים הקצרים שלך - הקישורים, ההערות, הציטוטים והסטטוסים, בהתאם לפורמט הפוסט. בפוסטים בהם יש תמונה ראשית, היא מוצגת במקום תמונת הכותרת, ופוסטים דביקים מקבלים תמונת כותרת גדולה במיוחד. "
+
+#: content.php:16
+msgid "Featured"
+msgstr "פוסט נבחר"
+
+#: archive.php:25
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי: %s"
+
+#: inc/theme-options.php:61 inc/theme-options.php:491
+msgid "Link Color"
+msgstr "צבע הקישורים"
+
+#: archive.php:27
+msgid "Monthly Archives: %s"
+msgstr "ארכיון חודשי: %s"
+
+#: inc/theme-options.php:498
+msgid "Layout"
+msgstr "פריסה"
+
+#: inc/widgets.php:19
+msgid "Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr "ווידג'ט זה מציג את ההערות, הסטאטוסים, הציטוטים או הקישורים האחרון שפרסמת, לפי פורמט הפוסט"
+
+#: inc/theme-options.php:273
+msgid "Select a Color"
+msgstr "לבחור צבע"
+
+#: inc/theme-options.php:276
+msgid "Default color: %s"
+msgstr "הצבע המקורי: %s"
+
+#: archive.php:29
+msgid "Yearly Archives: %s"
+msgstr "ארכיון שנתי: %s"
+
+#: functions.php:206
+msgid "Hanoi Plant"
+msgstr "עץ האנוי"
+
+#: inc/theme-options.php:178
+msgid "Content on right"
+msgstr "תוכן מימין"
+
+#: inc/theme-options.php:173
+msgid "Content on left"
+msgstr "תוכן משמאל"
+
+#: inc/theme-options.php:155
+msgid "Dark"
+msgstr "כהה"
+
+#: inc/theme-options.php:149
+msgid "Light"
+msgstr "בהיר"
+
+#: inc/theme-options.php:312
+msgid "%s Theme Options"
+msgstr "אפשרויות ערכת העיצוב %s"
+
+#: inc/theme-options.php:94 inc/theme-options.php:95
+msgid "Theme Options"
+msgstr "אפשרויות עיצוב"
+
+#: inc/theme-options.php:55 inc/theme-options.php:474
+msgid "Color Scheme"
+msgstr "ערכת צבעים"
+
+#: functions.php:194
+msgid "Lanterns"
+msgstr "פנסים"
+
+#: functions.php:200
+msgid "Willow"
+msgstr "ערבה"
+
+#: functions.php:188
+msgid "Chessboard"
+msgstr "לוח שחמט"
+
+#: functions.php:182
+msgid "Pine Cone"
+msgstr "אצטרובל"
+
+#: functions.php:164
+msgid "Wheel"
+msgstr "גלגל"
+
+#: showcase.php:150
+msgid "Featuring: %s"
+msgstr "פוסטים נבחרים: %s"
+
+#: functions.php:170
+msgid "Shore"
+msgstr "חוף ים"
+
+#: functions.php:176
+msgid "Trolley"
+msgstr "חשמלית"
+
+#: inc/widgets.php:91 inc/widgets.php:100
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr "<span class=\"reply\">תגובה אחת &larr;</span>"
+
+#: author.php:49 content-single.php:60
+msgid "About %s"
+msgstr "על אודות %s"
+
+#: inc/widgets.php:91 inc/widgets.php:100
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr "<span class=\"reply\">אין תגובות עדיין &larr;</span> "
+
+#: inc/widgets.php:52
+msgid "Ephemera"
+msgstr "בר חלוף"
+
+#: footer.php:27
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+msgid "the WordPress team"
+msgstr "צוות וורדפרס"
+
+#: comments.php:42 comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &larr;"
+
+#: comments.php:41 comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&rarr; תגובות ישנות יותר"
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "זהו פוסט מוגן - נדרשת סיסמה כדי לקרוא את התגובות."
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: content-gallery.php:44 showcase.php:120
+msgid "Permalink to %s"
+msgstr "קישור קבוע לפוסט %s"
+
+#: inc/widgets.php:150
+msgid "Title:"
+msgstr "כותרת: "
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr "ארכיון הבלוג"
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "זה קצת מביך, לא?"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "ארכיון הקטגוריה: %s"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:33
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "תגובה אחת על הפוסט &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s תגובות על הפוסט &ldquo;%2$s&rdquo;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "לא מצאתי שום דבר מתאים - אולי כדאי לנסות מילות חיפוש אחרות."
+
+#: inc/widgets.php:20
+msgid "Twenty Eleven Ephemera"
+msgstr "בר חלוף"
+
+#: tag.php:19
+msgid "Tag Archives: %s"
+msgstr "ארכיון התג: %s"
+
+#: author.php:28
+msgid "Author Archives: %s"
+msgstr "ארכיון פוסטים מאת: %s&rlm;"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "תוצאות החיפוש: %s"
+
+#: archive.php:57 author.php:74 category.php:50 index.php:37 search.php:42
+#: tag.php:50
+msgid "Nothing Found"
+msgstr "לא מצאתי כלום"
+
+#: searchform.php:11 searchform.php:12 searchform.php:13
+msgid "Search"
+msgstr "חיפוש"
+
+#: showcase.php:77
+msgid "Featured Post"
+msgstr "פוסט נבחר"
+
+#: showcase.php:160
+msgid "Recent Posts"
+msgstr "פוסטים אחרונים"
+
+#: sidebar.php:19
+msgid "Archives"
+msgstr "ארכיון"
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr "כלים"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "קטגוריות בולטות"
+
+#: 404.php:36
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "כדאי לחפש בארכיון החודשי. %1$s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "הפריט שחיפשת לא נמצא, ניתן להשתמש בחיפוש או להיעזר בקישור למטה."
+
+#: inc/widgets.php:153
+msgid "Number of posts to show:"
+msgstr "מספר הפוסטים:"
+
+msgid "Twenty Eleven"
+msgstr "Twenty Eleven"
+
+#: inc/widgets.php:91 inc/widgets.php:100
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr "% <span class=\"reply\">תגובות &rarr;</span>"
+
+#: content-aside.php:33 content-gallery.php:32 content-image.php:27
+#: content-link.php:33 content-quote.php:35 content-status.php:34
+#: content.php:41 functions.php:345
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא <span class=\"meta-nav\">&larr;</span>"
+
+#: content-aside.php:34 content-featured.php:23 content-gallery.php:50
+#: content-image.php:28 content-intro.php:18 content-link.php:34
+#: content-page.php:18 content-quote.php:36 content-single.php:24
+#: content-status.php:35 content.php:42 image.php:90
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: content-image.php:39 functions.php:608
+msgid "View all posts by %s"
+msgstr "להציג את כל הפוסטים מאת %s&rlm;"
+
+#: content-aside.php:42 content-gallery.php:83 content-image.php:64
+#: content-link.php:42 content-quote.php:69 content-status.php:43
+#: content.php:79 showcase.php:201
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> תגובות"
+
+#: content-aside.php:42 content-gallery.php:83 content-image.php:64
+#: content-link.php:42 content-quote.php:69 content-status.php:43
+#: content.php:79 showcase.php:201
+msgid "<b>1</b> Reply"
+msgstr "תגובה <b>אחת</b>"
+
+#: content-aside.php:44 content-featured.php:45 content-gallery.php:86
+#: content-image.php:68 content-intro.php:19 content-link.php:44
+#: content-page.php:21 content-quote.php:72 content-single.php:52
+#: content-status.php:45 content.php:82 functions.php:543 functions.php:571
+#: image.php:41
+msgid "Edit"
+msgstr "לערוך"
+
+#: content-single.php:37
+msgid "This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "פוסט זה פורסם בקטגוריה %1$s, מאת <a href=\"%6$s\">%5$s</a>. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#: content-single.php:35
+msgid "This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "פוסט זה פורסם בקטגוריה %1$s, עם התגיות %2$s, מאת <a href=\"%6$s\">%5$s</a>. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#: content-aside.php:42 content-gallery.php:83 content-image.php:64
+#: content-link.php:42 content-quote.php:69 content-status.php:43
+#: content.php:79 showcase.php:201
+msgid "Leave a reply"
+msgstr "להגיב"
+
+#: content-featured.php:33
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "פוסט זה פורסם בקטגוריה %1$s. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."
+
+#: content-gallery.php:43
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "גלריה זו מכילה <a %1$s>תמונה אחת</a>"
+msgstr[1] "גלריה זו מכילה <a %1$s>%2$s תמונות</a>"
+
+#: image.php:20
+msgid "Next &rarr;"
+msgstr "התמונה הבאה &larr;"
+
+#: image.php:19
+msgid "&larr; Previous"
+msgstr "&rarr; התמונה הקודמת"
+
+#: header.php:129
+msgid "Main menu"
+msgstr "תפריט ראשי"
+
+#: header.php:45
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: functions.php:543
+msgid "Pingback:"
+msgstr "פינגבאק:"
+
+#: functions.php:575
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#: functions.php:455
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "פוסטים חדשים יותר <span class=\"meta-nav\">&larr;</span>"
+
+#: functions.php:454
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&rarr;</span> פוסטים ישנים יותר"
+
+#: functions.php:453 single.php:18
+msgid "Post navigation"
+msgstr "ניווט בפוסטים"
+
+#: functions.php:433
+msgid "Footer Area Three"
+msgstr "עמודה שלישית בפוטר"
+
+#: functions.php:423
+msgid "Footer Area Two"
+msgstr "עמודה שניה בפוטר"
+
+#: functions.php:415 functions.php:425 functions.php:435
+msgid "An optional widget area for your site footer"
+msgstr "הפוטר של Twenty Eleven מחולק לשלוש עמודות - אפשר להוסיף ווידג'טים לכל אחת מהעמודות בנפרד"
+
+#: functions.php:413
+msgid "Footer Area One"
+msgstr "עמודה ראשונה בפוטר"
+
+#: functions.php:405
+msgid "The sidebar for the optional Showcase Template"
+msgstr "אזור וידג'טים אופציונאלי לעמודים עם התבנית \"חלון ראווה\""
+
+#: functions.php:403
+msgid "Showcase Sidebar"
+msgstr "סרגל צדדי בעמודי חלון ראווה"
+
+#: functions.php:394
+msgid "Main Sidebar"
+msgstr "סרגל צדדי ראשי"
+
+#: functions.php:95
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: content-single.php:64
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להציג את כל הפוסטים מאת %s&rlm; <span class=\"meta-nav\">&larr;</span>"
+
+#: content-featured.php:31
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "פוסט זה פורסם בקטגוריה %1$s, עם התגים %2$s. אפשר להגיע ישירות לפוסט זה <a href=\"%3$s\" title=\"קישור ישיר לפוסט %4$s\" rel=\"bookmark\">עם קישור ישיר</a>."

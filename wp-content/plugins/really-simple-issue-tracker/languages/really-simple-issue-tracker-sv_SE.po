@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Really Simple Issue Tracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-03 15:11+0100\n"
+"PO-Revision-Date: 2012-10-03 15:11+0100\n"
+"Last-Translator: Andreas Lundgren <andreas.lundgren@norran.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _x;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker\n"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:22
+msgid "Bug"
+msgstr "Bugg"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:23
+msgid "Task"
+msgstr "Uppgift"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:24
+msgid "Improvement"
+msgstr "Förbättring"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:25
+msgid "New feature"
+msgstr "Ny funktion"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-issue-type.php:26
+msgid "Story"
+msgstr "Berättelse"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:20
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:32
+msgid "Issues"
+msgstr "Ärenden"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:21
+msgid "Issue"
+msgstr "Ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:22
+#, fuzzy
+msgid "Add New"
+msgstr "Skapa nytt ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:23
+msgid "Add New Issue"
+msgstr "Skapa nytt ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:24
+msgid "Edit Issue"
+msgstr "Redigera ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:25
+msgid "New Issue"
+msgstr "Nytt ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:26
+msgid "All Issues"
+msgstr "Alla ärenden"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:27
+msgid "View Issue"
+msgstr "Visa ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:28
+msgid "Search Issues"
+msgstr "Sök ärenden"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:29
+msgid "No issue found"
+msgstr "Inga ärenden funna"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:30
+msgid "No issues found in Trash"
+msgstr "Inga ärenden funna i papperskorg"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:41
+msgid "issue"
+msgstr "ärende"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:52
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:62
+msgid "Projects"
+msgstr "Projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:53
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:60
+msgid "Project"
+msgstr "Projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:54
+msgid "Search Projects"
+msgstr "Sök projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:55
+msgid "All Projects"
+msgstr "Alla projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:56
+msgid "Parent Project"
+msgstr "Moderprojekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:57
+msgid "Parent Project:"
+msgstr "Moderprojekt:"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:58
+msgid "Edit Project"
+msgstr "Redigera projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:59
+msgid "Update Project"
+msgstr "Uppdatera projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:60
+msgid "Add New Project"
+msgstr "Skapa nytt projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:61
+msgid "New Project Name"
+msgstr "Nytt projektnamn"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:76
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-assigned-to.php:8
+msgid "Assigned to"
+msgstr "Tilldelad"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:77
+msgid "Issue type"
+msgstr "Ärendetyp"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:78
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:6
+msgid "Priority"
+msgstr "Prioritet"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:79
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:70
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:167
+msgid "Status"
+msgstr "Status"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-really-simple-issue-tracker.php:80
+msgid "Time"
+msgstr "Tid"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:21
+msgid "Open"
+msgstr "Öppen"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:22
+msgid "In progress"
+msgstr "Pågående"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:23
+msgid "Stopped"
+msgstr "Stoppad"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:24
+msgid "Fixed"
+msgstr "Fixad"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/class-status.php:25
+msgid "Closed"
+msgstr "Stängd"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-assigned-to.php:11
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:134
+msgid "Unassigned"
+msgstr "Otilldelad"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-issue-type.php:9
+msgid "Select type"
+msgstr "Välj typ"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:9
+msgid "Select priority"
+msgstr "Välj prioritet"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:14
+msgid "highest"
+msgstr "högst"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-priority.php:15
+msgid "lowest"
+msgstr "lägst"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-status.php:9
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:72
+msgid "Select status"
+msgstr "Välj status"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:11
+msgid "Enter time in hours and minutes."
+msgstr "Ange tid i timmar och minuter"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:14
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:129
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:142
+msgid "Original estimate"
+msgstr "Uppskattad tid"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:21
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:151
+msgid "Time spent"
+msgstr "Arbetad tid"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/templates/meta-box-time.php:27
+msgid "Time remaining"
+msgstr "Återstående tid"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:8
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:24
+msgid "Issue list"
+msgstr "Ärendelista"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:8
+msgid "Displays a customizable list of registered issues."
+msgstr "Visar en anpassningsbar lista över registrerade ärenden."
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:33
+msgid "Title"
+msgstr "Rubrik"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:39
+msgid "List length "
+msgstr "Listlängd"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:45
+msgid "issue(s)"
+msgstr "ärende(n)"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:50
+msgid "Assigned to "
+msgstr "Tilldelad"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:52
+msgid "Select user"
+msgstr "Välj användare"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:62
+msgid "Select project"
+msgstr "Välj projekt"
+
+#: /Applications/MAMP/htdocs/fswiki/wp-content/plugins/really-simple-issue-tracker/widgets/widget-issue-list.php:178
+msgid "No issues found! Create some issues or adjust your widget settings. :-)"
+msgstr "Inga ärenden funna! Skapa några ärenden eller justera widgetens inställningar. :-)"
+

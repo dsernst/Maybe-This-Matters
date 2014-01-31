@@ -1,0 +1,75 @@
+/*
+ Theme Name:     MTM One
+ Theme URI:      http://maybethismatters.org
+ Description:    StyleSheet for MaybeThisMatters.org
+ Author:         David Ernst
+ Author URI:     http://maybethismatters.org
+ Template:       p2
+ Version:        1.0.3
+*/
+
+@import url("../p2/style.css");
+
+html #header {
+	box-shadow: none !important;
+	height: 95px;
+	min-height: 95px;
+}
+
+body {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+}
+
+#wrapper {
+	border-radius: 4px;
+}
+
+#main p img {
+	border: none;
+}
+
+#footer {
+	display: none;
+}
+
+.avatar {
+	border-radius: 30px;
+	border: none !important;
+}
+
+#wrapper .mc4wp-form input[type="text"],
+#wrapper .mc4wp-form input[type="email"] {
+	border: 1px #ccc solid;
+	border-radius: 3px;
+	height: 26px;
+	padding: 5px 7px;
+	margin: 2px 0;
+}
+
+#wrapper .mc4wp-form input[type="submit"] {
+	width: 100%;
+	background: rgb(169,219,128);
+	color: #FFF;
+	font-size: 140%;
+	border-radius: 5px;
+	transition: all .2s ease;
+}
+
+#wrapper .mc4wp-form input[type="submit"]:hover {
+	background: rgb(153, 199, 116);
+}
+
+.link-to-chat {
+	color: #3478E3;
+	font-weight: bold;
+}
+
+.this-matters {
+	color: #3478E3;
+	font-weight: bold;
+}
+
+#wrapper #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a {
+	background: none;
+}
