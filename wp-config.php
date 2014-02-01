@@ -15,18 +15,21 @@
  */
 
 if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
+
+	/** There is a local-config.php file present */
     include( dirname( __FILE__ ) . '/local-config.php' );
-	define( 'WP_LOCAL_DEV', true ); /** Use local dev settings **/
+	define( 'WP_LOCAL_DEV', true ); /** We are using local dev settings **/
+
 } else {
 	define('DB_NAME', 'bitnami_wordpress'); /** The name of the database for WordPress */
 	define('DB_USER', 'mtmadministrator'); /** MySQL database username */
 	define('DB_PASSWORD', 'CiRVYSnAQVmboH0'); /** MySQL database password */
 	define('DB_HOST', 'aa98n5uiru16a7.ca1uuru1e6rx.us-west-2.rds.amazonaws.com:3306'); /** MySQL hostname */
+
+	define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wordpress');
+	define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
 }
 
-
-define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wordpress');
-define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
 
 define('WP_CONTENT_DIR', $_SERVER['DOCUMENT_ROOT'] . '/content');
 define('WP_CONTENT_URL', 'http://' . $_SERVER['SERVER_NAME'] . '/content');
