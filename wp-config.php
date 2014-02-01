@@ -14,13 +14,16 @@
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'bitnami_wordpress');
-
 if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
     include( dirname( __FILE__ ) . '/local-config.php' );
+	define( 'WP_LOCAL_DEV', true ); /** Use local dev settings **/
+} else {
+	define('DB_NAME', 'bitnami_wordpress'); /** The name of the database for WordPress */
+	define('DB_USER', 'bn_wordpress'); /** MySQL database username */
+	define('DB_PASSWORD', '4a7ede006b'); /** MySQL database password */
+	define('DB_HOST', 'localhost:3306'); /** MySQL hostname */
 }
+
 
 define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wordpress');
 define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
@@ -28,14 +31,7 @@ define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
 define('WP_CONTENT_DIR', $_SERVER['DOCUMENT_ROOT'] . '/content');
 define('WP_CONTENT_URL', 'http://' . $_SERVER['SERVER_NAME'] . '/content');
 
-/** MySQL database username */
-define('DB_USER', 'bn_wordpress');
 
-/** MySQL database password */
-define('DB_PASSWORD', '4a7ede006b');
-
-/** MySQL hostname */
-define('DB_HOST', 'localhost:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
