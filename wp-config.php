@@ -19,8 +19,8 @@ if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
 	define( 'WP_LOCAL_DEV', true ); /** Use local dev settings **/
 } else {
 	define('DB_NAME', 'bitnami_wordpress'); /** The name of the database for WordPress */
-	define('DB_USER', 'bn_wordpress'); /** MySQL database username */
-	define('DB_PASSWORD', '4a7ede006b'); /** MySQL database password */
+	define('DB_USER', 'mtmadministrator'); /** MySQL database username */
+	define('DB_PASSWORD', 'CiRVYSnAQVmboH0'); /** MySQL database password */
 	define('DB_HOST', 'aa98n5uiru16a7.ca1uuru1e6rx.us-west-2.rds.amazonaws.com:3306'); /** MySQL hostname */
 }
 
