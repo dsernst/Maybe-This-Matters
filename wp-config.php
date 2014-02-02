@@ -28,12 +28,10 @@ if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
 
 	define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wordpress');
 	define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
+
+	define('WP_CONTENT_DIR', $_SERVER['DOCUMENT_ROOT'] . '/content');
+	define('WP_CONTENT_URL', 'http://' . $_SERVER['SERVER_NAME'] . '/content');
 }
-
-
-define('WP_CONTENT_DIR', $_SERVER['DOCUMENT_ROOT'] . '/content');
-define('WP_CONTENT_URL', 'http://' . $_SERVER['SERVER_NAME'] . '/content');
-
 
 
 /** Database Charset to use in creating database tables. */
