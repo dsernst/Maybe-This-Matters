@@ -13,7 +13,7 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php wp_head();
 include 'inspectlet.php';
-include 'zopim-chat.php'; ?>
+if (!WP_LOCAL_DEV) include 'zopim-chat.php'; ?>
 </head>
 <body <?php body_class(); ?>>
 
