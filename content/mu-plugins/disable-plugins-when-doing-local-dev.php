@@ -57,7 +57,7 @@ class CWS_Disable_Plugins_When_Local_Dev {
 /* Begin customization */
  
 if ( defined( 'WP_LOCAL_DEV' ) && WP_LOCAL_DEV ) {
-	new CWS_Disable_Plugins_When_Local_Dev( array( 'vaultpress.php', 'stats.php' ) );
+	new CWS_Disable_Plugins_When_Local_Dev( array( 'vaultpress.php', 'wp-statistics.php' ) );
 	/*
 		For programmatic disabling, you can initialize the object (e.g. as $_localdev) then do:
 		$_localdev->disable( 'vaultpress.php' );
